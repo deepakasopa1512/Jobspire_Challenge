@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+function Name($name) {
+     echo $name;
+}
+Name("Deepak");
+echo " ".(rand(6,15));
+?>
+
+</body>
+</html>
